@@ -1,4 +1,4 @@
-package pedigreeVerification;
+//insert package name as stated in the user manual (in Step 4 of 'PEVARPlugin from Scratch')
 
 import java.util.ArrayList;
 
